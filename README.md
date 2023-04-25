@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dacheamp
 - 👀 I’m interested in books, music, languages and data
-- 🌱 I’m currently learning coding and want to focus on python languages
+- 🌱 I’m currently focusing on SQL
 
 <!---
 dacheamp/dacheamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
